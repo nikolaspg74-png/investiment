@@ -6,7 +6,7 @@ const investmentRoutes = require('./routes/investiment');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Configuração do CORS (liberado geral por enquanto)
+// Configuração do CORS (liberado geral por enquantoo)
 const allowedOrigins = [
   'https://my-investiment-app.vercel.app/',
   'http://localhost:3000'
